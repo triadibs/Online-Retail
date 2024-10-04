@@ -20,10 +20,14 @@ Before conducting a full analysis, I performed Exploratory Data Analysis to unde
 
 ## Findings/Results
 
-1. **Top 10 Countries**: The majority of revenue came from a small set of countries, with the UK dominating sales, followed by other European nations.
-2. **Top 10 Products**: A few products accounted for a significant share of sales, indicating that focusing on these popular items may drive more revenue.
-3. **Returning Customers**: With 75% of customers making repeat purchases, customer loyalty is strong. This indicates the store's success in maintaining customer satisfaction and suggests that enhancing retention strategies could further boost profitability.
-4. **Monthly Sales Performance**: Sales saw a substantial rise from August 2011 to November 2011, with November being the peak month. This trend may suggest a build-up to holiday or seasonal sales, highlighting the importance of planning for demand spikes during this period.
+1. **Top 10 Countries**: The majority of revenue came from a small set of countries, with the UK dominating sales, followed by other European nations. ![Top 10 Country](https://github.com/user-attachments/assets/89dcb298-e4b8-46cb-ade5-27a0fcd13567)
+
+2. **Top 10 Products**: A few products accounted for a significant share of sales, indicating that focusing on these popular items may drive more revenue.![Top 10 Best Product](https://github.com/user-attachments/assets/92e89f73-ce11-46d3-a913-7a11f908afcc)
+
+3. **Returning Customers**: With 75% of customers making repeat purchases, customer loyalty is strong. This indicates the store's success in maintaining customer satisfaction and suggests that enhancing retention strategies could further boost profitability.![Returning Customer](https://github.com/user-attachments/assets/6239a006-f01f-4718-b664-3e91547cd651)
+
+4. **Monthly Sales Performance**: Sales saw a substantial rise from August 2011 to November 2011, with November being the peak month. This trend may suggest a build-up to holiday or seasonal sales, highlighting the importance of planning for demand spikes during this period.![Revenue by Month](https://github.com/user-attachments/assets/f83f6d60-ea3d-49a3-8770-9b7a70d97c6f)
+
 
 ## Recommendations
 
