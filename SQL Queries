@@ -20,4 +20,3 @@ SELECT
     END AS ReturningCustomer, 
     CONVERT(VARCHAR(7), InvoiceDate, 120) AS InvoiceMonth  -- Format YYYY-MM
 FROM online_retail;
-
