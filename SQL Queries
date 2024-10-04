@@ -1,5 +1,5 @@
-
-```DELETE  
+```sql
+DELETE  
 FROM online_retail  
 WHERE Quantity <= 0 OR UnitPrice <= 0;
 
@@ -20,4 +20,4 @@ SELECT
     END AS ReturningCustomer, 
     CONVERT(VARCHAR(7), InvoiceDate, 120) AS InvoiceMonth  -- Format YYYY-MM
 FROM online_retail;
-```
+
